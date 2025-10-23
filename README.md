@@ -1,4 +1,4 @@
-# MoEngage Private CocoaPods Specs
+# MoEngage CocoaPods Specs
 
 This repository serves as a private CocoaPod specs host for MoEngage pods.
 
