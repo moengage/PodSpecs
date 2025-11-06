@@ -1,14 +1,14 @@
 # MoEngage CocoaPods Specs
 
-This repository serves as a private CocoaPod specs host for MoEngage pods.
+This repository serves as a CocoaPod specs host for MoEngage pods.
 
 ## Overview
 
-This is a private spec repository that contains podspec files for MoEngage's internal and proprietary pods. It allows MoEngage to distribute and manage its CocoaPods independently from the public CocoaPods trunk.
+This is a spec repository that contains podspec files for MoEngage's pods. It allows MoEngage to distribute and manage its CocoaPods independently from the public CocoaPods trunk.
 
 ## Adding This Specs Repository
 
-To use pods from this private specs repository, you need to add it to your CocoaPods installation.
+To use pods from this specs repository, you need to add it to your CocoaPods installation.
 
 ### Option 1: Command Line
 
@@ -25,7 +25,7 @@ source 'https://github.com/moengage/PodSpecs.git'
 source 'https://github.com/CocoaPods/Specs.git'
 ```
 
-**Note:** When using private specs repositories, you must explicitly include the public CocoaPods specs repository as well.
+**Note:** When using specs repositories, you must explicitly include the public CocoaPods specs repository as well.
 
 ## Using MoEngage Pods
 
