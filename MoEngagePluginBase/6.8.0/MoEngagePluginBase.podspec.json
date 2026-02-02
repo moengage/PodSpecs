@@ -39,7 +39,6 @@
     ],
     "MoEngage-iOS-SDK/InApps": []
   },
-  "prepare_command": "echo \"// Generated file, do not edit\n\" > Sources/MoEngagePluginBase/MoEngagePluginConstants+Version.swift\n    echo \"import Foundation\n\" >> Sources/MoEngagePluginBase/MoEngagePluginConstants+Version.swift\n    echo \"extension MoEngagePluginConstants {\n    static let version = \\\"6.8.0\\\"\n}\" >> Sources/MoEngagePluginBase/MoEngagePluginConstants+Version.swift",
   "scheme": {
     "code_coverage": true
   },
