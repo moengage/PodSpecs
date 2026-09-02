@@ -14,7 +14,7 @@
   "social_media_url": "https://x.com/moengage",
   "source": {
     "http": "https://github.com/moengage/apple-sdk/releases/download/11.01.0/MoEngageCore.xcframework.zip",
-    "sha256": "c2d9ee58fd0db08db858b896618bb549971ef2f9459658d98336bc3237a4203b"
+    "sha256": "d9ae159f9ddb635a13da80cad472aa21723df3fca7f881ba2ffba3dfb4faf1f8"
   },
   "platforms": {
     "ios": "13.0",
